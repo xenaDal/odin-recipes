@@ -1,0 +1,14 @@
+h1 {
+    color: darkmagenta;
+    background-color: #BDB76B;
+    font-family: "Lucida Console", Monaco, monospace;
+    text-align: center;
+}
+
+.rtitles {
+    color: rgb(0, 0, 139);
+    background-color: coral;
+    font-family: Papyrus, Coppperplate, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
